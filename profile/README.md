@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/License-Apache%20V2.0-red.svg?style=flat-square" alt="Apache V2.0">
       <a href="https://www.ycombinator.com/companies/respan"><img src="https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square" alt="Y Combinator W24"></a>
       <a href="https://pypi.org/project/respan-sdk/"><img src="https://img.shields.io/pypi/dm/respan-sdk?style=flat-square&logo=python&logoColor=white&label=pypi%20respan-sdk&color=blue" alt="Respan Python SDK on PyPI"></a>
-      <a href="https://x.com/respan"><img src="https://img.shields.io/twitter/follow/respan?style=social" alt="Follow @respan on X"></a>
+      <a href="https://x.com/RespanAI"><img src="https://img.shields.io/twitter/follow/respan?style=social" alt="Follow @RespanAI on X"></a>
    </div>
 </div>
 <br/>
