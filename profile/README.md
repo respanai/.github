@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <b>New:</b> <a href="https://github.com/respanai/respan-gateway"><b>Respan Gateway</b></a>, our open-source AI gateway in one Rust binary. Any SDK, any model, any tool.
+  <b>New:</b> our <a href="https://github.com/respanai/respan-gateway"><b>open-source AI gateway</b></a>, in one Rust binary. Any SDK, any model, any tool.
 </div>
 <br/>
 
