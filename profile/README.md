@@ -15,7 +15,8 @@
       <h3>
          <a href="https://platform.respan.ai/signup"><strong>Sign up</strong></a> ·
          <a href="https://www.respan.ai"><strong>Features</strong></a> ·
-         <a href="https://cal.com/team/respan/demo"><strong>Talk with founders</strong></a>
+         <a href="https://cal.com/team/respan/demo"><strong>Talk with founders</strong></a> ·
+         <a href="https://github.com/respanai/respan-gateway"><strong>Open-source gateway</strong></a>
       </h3>
    </div>
    <div>
@@ -31,6 +32,11 @@
       <a href="https://pypi.org/project/respan-sdk/"><img src="https://img.shields.io/pypi/dm/respan-sdk?style=flat-square&logo=python&logoColor=white&label=pypi%20respan-sdk&color=blue" alt="Respan Python SDK on PyPI"></a>
       <a href="https://x.com/RespanAI"><img src="https://img.shields.io/twitter/follow/respan?style=social" alt="Follow @RespanAI on X"></a>
    </div>
+</div>
+<br/>
+
+<div align="center">
+  <b>New:</b> <a href="https://github.com/respanai/respan-gateway"><b>Respan Gateway</b></a>, our open-source AI gateway in one Rust binary. Any SDK, any model, any tool.
 </div>
 <br/>
 
